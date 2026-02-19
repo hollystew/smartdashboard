@@ -91,8 +91,9 @@ map.on('load', async () => {
             geometry: {
                 type: "Point",
                 coordinates: [
-                    parseFloat(f.properties.LATITUDE),   
-                    parseFloat(f.properties.LONGITUDE)   
+                    parseFloat(f.properties.LONGITUDE), 
+                    parseFloat(f.properties.LATITUDE)
+                     
                 ]
             }
         }))
