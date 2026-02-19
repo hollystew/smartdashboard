@@ -78,7 +78,6 @@ for (let i = 0; i < sizeGrades.length; i++) {
 
 legend.innerHTML = legendHTML;
 
-
 map.on('load', async () => {
 
     const response = await fetch('assets/crashes2025.geojson');
