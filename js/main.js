@@ -93,7 +93,6 @@ map.on('load', async () => {
                 coordinates: [
                     parseFloat(f.properties.LONGITUDE), 
                     parseFloat(f.properties.LATITUDE)
-                     
                 ]
             }
         }))
