@@ -1,5 +1,5 @@
 ### Lab 6 Smart Dashboard  
-#Seattle Vehicle Collisions in 2025  
+# Seattle Vehicle Collisions in 2025  
 
 ## Project Overview  
   This Smart Dashboard visualizes car crashes across Seatlle for the year 2025 (January 1st-December 31st). Each collision is represented by a proportional symbol. The radius/size of the circle is determined by the number of people involved in the accident and the colour represents the severity by level of injury. By clicking on a point you can see this information as well as the date and time of the accident. On the left side, a bar chart also visualizes this information and by selecting one of the bars, only the symbols in that category will become visible on the map.   
