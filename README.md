@@ -1,3 +1,5 @@
+_No AI was used in this assignment_  
+
 ### Lab 6 Smart Dashboard  
 # Seattle Vehicle Collisions in 2025  
 
